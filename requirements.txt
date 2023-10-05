@@ -1,0 +1,5 @@
+streamlit
+streamlit-lottie
+# Add other dependencies if you have them
+
+requests
